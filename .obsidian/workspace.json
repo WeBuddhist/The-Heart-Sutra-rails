@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5184f0422b6ee8c3",
+        "id": "9a591111307d972d",
         "type": "tabs",
         "children": [
           {
-            "id": "68c74dc84c28c6c1",
+            "id": "ef12f680a8a9dff4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -193,7 +193,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "68c74dc84c28c6c1",
+  "active": "15014ceefa497d3c",
   "lastOpenFiles": [
     "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
