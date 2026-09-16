@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "088ac874b9339db4",
+        "id": "572f094aa0dc6155",
         "type": "tabs",
         "children": [
           {
-            "id": "3216283a04e24b7d",
+            "id": "088325cdf0a9fb03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་འགྲེལ་པ་ཟབ་དོན་གསལ་བའི་སྒྲོན་མེ།.md",
+                "file": "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་འགྲེལ་བ་ཟབ་མོ་སྣང་བའི་གཏེར་སྒོ་ཞེས་བྱ་བ་བཞུགས་སོ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ཤེས་རབ་སྙིང་པོའི་འགྲེལ་པ་ཟབ་དོན་གསལ་བའི་སྒྲོན་མེ།"
+              "title": "ཤེས་རབ་སྙིང་པོའི་འགྲེལ་བ་ཟབ་མོ་སྣང་བའི་གཏེར་སྒོ་ཞེས་བྱ་བ་བཞུགས་སོ།"
             }
           }
         ]
@@ -197,8 +197,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "3216283a04e24b7d",
+  "active": "088325cdf0a9fb03",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་འགྲེལ་པ་ཟབ་དོན་གསལ་བའི་སྒྲོན་མེ།.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་འགྲེལ་པ་དོན་གསལ་ནོར་བུའི་འོད།.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་མཆན་འགྲེལ་མདོར་བསྡུས།.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོའི་དོན་ཡོངས་སུ་ཤེས་པ།.md",
@@ -233,7 +234,6 @@
     "CLAUDE.md",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
-    "4-SYSTEM/Skills/vault-audit/SKILL.md",
-    "4-SYSTEM/Skills/translation-frontmatter/SKILL.md"
+    "4-SYSTEM/Skills/vault-audit/SKILL.md"
   ]
 }
