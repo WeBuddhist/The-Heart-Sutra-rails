@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ada62f659d9f1b97",
+        "id": "d0f03b86618c300c",
         "type": "tabs",
         "children": [
           {
-            "id": "416b3fe2f4e8964e",
+            "id": "ce0f89579222421c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་རྣམ་བཤད་ཀླུ་སྒྲུབ་ཀྱི་དགོངས་པ་གསལ་བར་བསྟན་པ།.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ཤེས་རབ་སྙིང་པོའི་རྣམ་བཤད་ཀླུ་སྒྲུབ་ཀྱི་དགོངས་པ་གསལ་བར་བསྟན་པ།"
+              "title": "New tab"
             }
           }
         ]
@@ -197,14 +193,15 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "416b3fe2f4e8964e",
+  "active": "15014ceefa497d3c",
   "lastOpenFiles": [
-    "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་འགྲེལ་བ་ཟབ་མོ་སྣང་བའི་གཏེར་སྒོ་ཞེས་བྱ་བ་བཞུགས་སོ།.md",
+    "Untitled.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་རྣམ་བཤད་ཀླུ་སྒྲུབ་ཀྱི་དགོངས་པ་གསལ་བར་བསྟན་པ།.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
+    "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་འགྲེལ་བ་ཟབ་མོ་སྣང་བའི་གཏེར་སྒོ་ཞེས་བྱ་བ་བཞུགས་སོ།.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་སྔགས་ཀྱི་རྣམ་བཤད་སྦས་དོན་གསལ་བ།.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་རྣམ་པར་བཤད་པ།.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་འགྲེལ་བ།.md",
@@ -232,7 +229,6 @@
     "1-SOURCES/Commentaries/~$ས་རབ་སྙིང་པོའི་རྣམ་པར་བཤད་པ།.docx",
     "1-SOURCES/About Sources.md",
     "ཤེས་རབ་སྙིང་པོ།.md",
-    "Untitled.md",
     "1-SOURCES/Commentaries/Untitled.md"
   ]
 }
