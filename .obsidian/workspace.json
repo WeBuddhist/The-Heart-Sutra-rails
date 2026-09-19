@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d0f03b86618c300c",
+        "id": "7822ad2dc35c78bb",
         "type": "tabs",
         "children": [
           {
-            "id": "ce0f89579222421c",
+            "id": "bca80679b1d96f81",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Untitled.md",
+                "bFile": "Untitled.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Untitled  (Working Tree)"
             }
           }
         ]
@@ -193,14 +197,14 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "bca80679b1d96f81",
   "lastOpenFiles": [
+    "Untitled.md",
     "Untitled",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
-    "Untitled.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་རྣམ་བཤད་ཀླུ་སྒྲུབ་ཀྱི་དགོངས་པ་གསལ་བར་བསྟན་པ།.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་འགྲེལ་བ་ཟབ་མོ་སྣང་བའི་གཏེར་སྒོ་ཞེས་བྱ་བ་བཞུགས་སོ།.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་སྔགས་ཀྱི་རྣམ་བཤད་སྦས་དོན་གསལ་བ།.md",
@@ -227,7 +231,6 @@
     "1-SOURCES/Commentaries/~$ོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོའི་འགྲེལ་པ་དོན་གྱི་སྒྲོན་མ།.docx",
     "1-SOURCES/Commentaries/~$ས་རབ་སྙིང་པོའི་སྔགས་ཀྱི་རྣམ་བཤད་སྦས་དོན་གསལ་བ།.docx",
     "1-SOURCES/Commentaries/~$ས་རབ་སྙིང་པོའི་རྣམ་བཤད་ཀླུ་སྒྲུབ་ཀྱི་དགོངས་པ་གསལ་བར་བསྟན་པ།.docx",
-    "1-SOURCES/Commentaries/~$ས་རབ་སྙིང་པོའི་རྣམ་པར་བཤད་པ།.docx",
     "1-SOURCES/About Sources.md",
     "ཤེས་རབ་སྙིང་པོ།.md",
     "1-SOURCES/Commentaries/Untitled.md"
