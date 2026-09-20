@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "75a35f07e303311a",
+        "id": "ada62f659d9f1b97",
         "type": "tabs",
         "children": [
           {
-            "id": "561d6c409065c8b8",
+            "id": "416b3fe2f4e8964e",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Audio/ཤེས་རབ་སྙིང་པོ། pm4.mp4"
+                "file": "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་རྣམ་བཤད་ཀླུ་སྒྲུབ་ཀྱི་དགོངས་པ་གསལ་བར་བསྟན་པ།.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "ཤེས་རབ་སྙིང་པོ། pm4"
+              "title": "ཤེས་རབ་སྙིང་པོའི་རྣམ་བཤད་ཀླུ་སྒྲུབ་ཀྱི་དགོངས་པ་གསལ་བར་བསྟན་པ།"
             }
           }
         ]
@@ -195,18 +197,18 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "561d6c409065c8b8",
+  "active": "416b3fe2f4e8964e",
   "lastOpenFiles": [
-    "1-SOURCES/Text/ཤེས་རབ་སྙིང་པོ།.md",
+    "1-SOURCES/Audio/ཤེས་རབ་སྙིང་པོ། pm4.mp4",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་འགྲེལ་བ་ཟབ་མོ་སྣང་བའི་གཏེར་སྒོ་ཞེས་བྱ་བ་བཞུགས་སོ།.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་རྣམ་བཤད་ཀླུ་སྒྲུབ་ཀྱི་དགོངས་པ་གསལ་བར་བསྟན་པ།.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
-    "Untitled.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་འགྲེལ་བ་ཟབ་མོ་སྣང་བའི་གཏེར་སྒོ་ཞེས་བྱ་བ་བཞུགས་སོ།.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་སྔགས་ཀྱི་རྣམ་བཤད་སྦས་དོན་གསལ་བ།.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་རྣམ་པར་བཤད་པ།.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་འགྲེལ་བ།.md",
@@ -225,6 +227,7 @@
     "1-SOURCES/Commentaries/བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོའི་འགྲེལ་པ་དོན་གྱི་སྒྲོན་མ།.md",
     "1-SOURCES/Commentaries/གཞུང་མཆོག་ཤེས་རབ་སྙིང་པོའི་རྣམ་བཤད་ཟབ་དོན་པད་དཀར་བཞད་པོའི་ཉིན་བྱེད་ཅེས་བྱ་བ་བཞུགས། །.md",
     "1-SOURCES/Commentaries/༄༅། །ཤེས་རབ་སྙིང་པོའི་རྣམ་བཤད་ཡང་དག་ལྟ་བའི་མིག་ཅེས་བྱ་བ་བཞུགས་སོ།.md",
+    "1-SOURCES/Text/ཤེས་རབ་སྙིང་པོ།.md",
     "1-SOURCES/Commentaries/~$ས་རབ་སྙིང་པོའི་འགྲེལ་པ་དོན་གསལ་ནོར་བུའི་འོད།.docx",
     "1-SOURCES/Commentaries/~$ར་སྙིང་རྣམ་བཤད་ཡུམ་དོན་རབ་གསལ།.docx",
     "1-SOURCES/Commentaries/~$ོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོའི་འགྲེལ་པ་དོན་གྱི་སྒྲོན་མ།.docx",
