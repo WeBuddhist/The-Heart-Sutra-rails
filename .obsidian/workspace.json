@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 272.9864501953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,6 +209,10 @@
   },
   "active": "34b00d1b38a623b8",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Text/ཤེས་རབ་སྙིང་པོ།.md",
     "Untitled 2.md",
     "1-SOURCES/Audio/ཤེས་རབ་སྙིང་པོ། pm4.mp4",
@@ -217,10 +221,6 @@
     "Untitled 1",
     "ཤེས་རབ་སྙིང་པོ།.md",
     "Untitled",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་རྣམ་བཤད་ཀླུ་སྒྲུབ་ཀྱི་དགོངས་པ་གསལ་བར་བསྟན་པ།.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་འགྲེལ་བ་ཟབ་མོ་སྣང་བའི་གཏེར་སྒོ་ཞེས་བྱ་བ་བཞུགས་སོ།.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་སྔགས་ཀྱི་རྣམ་བཤད་སྦས་དོན་གསལ་བ།.md",
